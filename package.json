@@ -1,5 +1,5 @@
 {
-  "name": "@spalger/leaflet-draw",
+  "name": "@elastic/leaflet-draw",
   "private": false,
   "version": "0.2.3",
   "description": "Vector drawing plugin for Leaflet",
